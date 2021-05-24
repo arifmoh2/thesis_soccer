@@ -1,0 +1,8 @@
+Checklist:
+
+1) Proposal (Team Analysis)
+2) Get the Data in Order: Organise Cloud, Distibuted Database
+3) Read PhD dissertation & spinoff papers
+
+
+

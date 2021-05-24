@@ -1,0 +1,98 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{indentfirst}
+\usepackage{graphicx}
+\graphicspath{ {./figures/} }
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\usepackage{subfig} %Subfigures
+\linespread{1.25} % 1.5 Spacing in word
+\setlength{\parskip}{1em} %Spacing
+\setlength{\parindent}{2em}
+
+\usepackage[a4paper, %
+            margin=1in,%
+            footskip=0.5cm]{geometry}
+            
+\usepackage[
+    backend=biber,
+    style=ieee]{biblatex}
+\addbibresource{bibliography.bib} %bibliography
+
+
+\usepackage{makecell}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools,xparse}
+
+\renewcommand\theadalign{bc}
+\renewcommand\theadfont{\bfseries}
+\renewcommand\theadgape{\Gape[4pt]}
+\renewcommand\cellgape{\Gape[4pt]}
+
+
+
+\title{Interim Report}
+\author{Mustafa Arif}
+\date{January 2021}
+
+\begin{document}
+
+%Title Page
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+            
+        \Huge
+        \textbf{Defining Soccer Playing Styles through a Data-Driven Approach}
+            
+        \vspace{0.5cm}
+        \Large
+        \textbf{Undergraduate Thesis Final Report}
+            
+        \vspace{1.5cm}
+            
+        Author: Mohammad Mustafa Arif\\
+        Supervisor: Professor Timothy Chan
+            
+        \vfill
+            
+        %An interim report of the Engineering Science Undergraduate Thesis
+            
+        \vspace{0.8cm}
+            
+        %\includegraphics[width=0.4\textwidth]{university}
+            
+        \large
+        Student Number: 1003116736 \\
+        Engineering Science: Machine Intelligence\\
+        University of Toronto\\
+        February 1st, 2021
+            
+    \end{center}
+\end{titlepage}
+
+
+%Contents
+\tableofcontents
+\newpage
+
+
+\section{Abstract}
+
+\section{Introduction}
+
+
+
+
+
+\newpage
+\section{References}
+\printbibliography[heading=none]
+\end{document}

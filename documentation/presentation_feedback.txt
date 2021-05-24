@@ -1,0 +1,34 @@
+Get away with using no words if possible - talk more than whats on the slides
+
+
+
+INCLUDE THIS SLIDE
+I am a coach, how do I benefit from this
+Make the importance of the work clear:
+	How does the work help in day to day operations for a football manager, tactician, owner?
+	Motivate the project at the very beginning (slide 2)
+
+hardest part: relating numbers back to the actual game. figure this out
+Maybe have appendix slide for q&a
+
+
+GOALS
+Bring back these questions - how would they help a coach/tacticians? Make this connection very clear
+
+
+
+UNSUPERVISED CLUSTERING (can get rid of this if needed)
+
+GRAPHS (FOCUS ON 4/5 features, or highlight the important features, say with a red box)
+	try putting video highlights around which ones are significantly different
+
+ 
+PUT THE MOST TIME TO CASE STUDY 1 vs 3
+	go back to the initial scenario - use it to do a side by side comparison -> they are significantly different
+	so it lead to them being classified differently
+
+	Goal was to identify playing style: couple of words to summarize each cluster. What's 
+	characteristic of each cluster?
+
+super cool if I describe say real vs atletico in different clusters, then have a clip to show exactly what I mean
+

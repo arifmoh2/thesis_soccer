@@ -1,0 +1,6 @@
+Make this a representation learning problem
+Find representations of each team in multiple dimensions using an array of features
+some of the features can be metrics like H-Statitic, Acceleration Index, ...
+Others can be meta infromation about the team
+
+
